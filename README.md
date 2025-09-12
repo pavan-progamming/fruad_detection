@@ -146,6 +146,9 @@ We welcome contributions from the community. Please read our contributing guidel
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+<img width="1898" height="1028" alt="Screenshot 2025-09-12 115447" src="https://github.com/user-attachments/assets/8e21cc80-eaa6-4c0d-a8db-8198f588b911" />
+
 ## Contact
 For questions, suggestions, or security reports, please contact our development team.
 
